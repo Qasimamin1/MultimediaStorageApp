@@ -1,0 +1,56 @@
+E:\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+E:\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+E:\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+E:\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+E:\MultimediaStorage\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+E:\Downloads\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+E:\Downloads\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+E:\Downloads\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+E:\Downloads\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+E:\Downloads\MultimediaStorage\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

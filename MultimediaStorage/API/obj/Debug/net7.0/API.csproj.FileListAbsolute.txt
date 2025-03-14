@@ -1,0 +1,428 @@
+E:\MultimediaStorage\API\bin\Debug\net7.0\appsettings.Development.json
+E:\MultimediaStorage\API\bin\Debug\net7.0\appsettings.json
+E:\MultimediaStorage\API\bin\Debug\net7.0\API.exe
+E:\MultimediaStorage\API\bin\Debug\net7.0\API.deps.json
+E:\MultimediaStorage\API\bin\Debug\net7.0\API.runtimeconfig.json
+E:\MultimediaStorage\API\bin\Debug\net7.0\API.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\API.pdb
+E:\MultimediaStorage\API\bin\Debug\net7.0\AutoMapper.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Azure.Core.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Azure.Identity.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Humanizer.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\System.CodeDom.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Infrastructure.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Model.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Repository.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Shared.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\Infrastructure.pdb
+E:\MultimediaStorage\API\bin\Debug\net7.0\Model.pdb
+E:\MultimediaStorage\API\bin\Debug\net7.0\Repository.pdb
+E:\MultimediaStorage\API\bin\Debug\net7.0\Shared.pdb
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.build.json
+E:\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.development.json
+E:\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+E:\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MultimediaStorage\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.CopyComplete
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.dll
+E:\MultimediaStorage\API\obj\Debug\net7.0\refint\API.dll
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.pdb
+E:\MultimediaStorage\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+E:\MultimediaStorage\API\obj\Debug\net7.0\ref\API.dll
+E:\MultimediaStorage\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\appsettings.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.exe
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.deps.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Model.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Repository.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Shared.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Model.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Repository.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Shared.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\API\obj\Debug\net7.0\ref\API.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\appsettings.Development.json
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\appsettings.json
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.exe
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.deps.json
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.runtimeconfig.json
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\API.pdb
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\AutoMapper.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Azure.Core.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Humanizer.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Infrastructure.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Model.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Repository.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Shared.dll
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Infrastructure.pdb
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Model.pdb
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Repository.pdb
+E:\Downloads\MultimediaStorage\API\bin\Debug\net7.0\Shared.pdb
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.CopyComplete
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.dll
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\refint\API.dll
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.pdb
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+E:\Downloads\MultimediaStorage\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\appsettings.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\API.exe
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\API.deps.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\API.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\API.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Model.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Repository.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Shared.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Model.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Repository.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\bin\Debug\net7.0\Shared.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\API\obj\Debug\net7.0\ref\API.dll

@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\Logo 1638445052229944125.png",
+      "PackagePath": "staticwebassets\\Files\\Logo 1638445052229944125.png"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\Logo 1638445052268689125.png",
+      "PackagePath": "staticwebassets\\Files\\Logo 1638445052268689125.png"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\Logo 1638445052283342314.png",
+      "PackagePath": "staticwebassets\\Files\\Logo 1638445052283342314.png"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\Logo 1638445055096892651.png",
+      "PackagePath": "staticwebassets\\Files\\Logo 1638445055096892651.png"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\Logo 1638445055109810069.png",
+      "PackagePath": "staticwebassets\\Files\\Logo 1638445055109810069.png"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\PTest1638432171501081672.PNG",
+      "PackagePath": "staticwebassets\\Files\\PTest1638432171501081672.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\Resume-Mohammad-Qasim-Amin638431807130276546.pdf",
+      "PackagePath": "staticwebassets\\Files\\Resume-Mohammad-Qasim-Amin638431807130276546.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\Resume-Mohammad-Qasim638442419626864592.pdf",
+      "PackagePath": "staticwebassets\\Files\\Resume-Mohammad-Qasim638442419626864592.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\Resume-Mohammad-Qasim638444071556335258.pdf",
+      "PackagePath": "staticwebassets\\Files\\Resume-Mohammad-Qasim638444071556335258.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\Resume-Muhammad-Qasim-Amin638431804277459193.pdf",
+      "PackagePath": "staticwebassets\\Files\\Resume-Muhammad-Qasim-Amin638431804277459193.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Qasim\\Desktop\\Interview\\Uppsala University Test\\MultimediaStorageApp\\MultimediaStorageApp\\MultimediaStorage\\API\\wwwroot\\Files\\react638431804586508057.PNG",
+      "PackagePath": "staticwebassets\\Files\\react638431804586508057.PNG"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

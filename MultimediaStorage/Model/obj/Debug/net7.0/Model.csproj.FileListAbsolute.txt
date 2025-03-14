@@ -1,0 +1,68 @@
+E:\MultimediaStorage\Model\bin\Debug\net7.0\Model.deps.json
+E:\MultimediaStorage\Model\bin\Debug\net7.0\Model.dll
+E:\MultimediaStorage\Model\bin\Debug\net7.0\Model.pdb
+E:\MultimediaStorage\Model\bin\Debug\net7.0\Infrastructure.dll
+E:\MultimediaStorage\Model\bin\Debug\net7.0\Shared.dll
+E:\MultimediaStorage\Model\bin\Debug\net7.0\Shared.pdb
+E:\MultimediaStorage\Model\bin\Debug\net7.0\Infrastructure.pdb
+E:\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+E:\MultimediaStorage\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\MultimediaStorage\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+E:\MultimediaStorage\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+E:\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+E:\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.CopyComplete
+E:\MultimediaStorage\Model\obj\Debug\net7.0\Model.dll
+E:\MultimediaStorage\Model\obj\Debug\net7.0\refint\Model.dll
+E:\MultimediaStorage\Model\obj\Debug\net7.0\Model.pdb
+E:\MultimediaStorage\Model\obj\Debug\net7.0\ref\Model.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Model.deps.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Model.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Model.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Shared.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Shared.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.CopyComplete
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\refint\Model.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\ref\Model.dll
+E:\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Model.deps.json
+E:\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Model.dll
+E:\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Model.pdb
+E:\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Infrastructure.dll
+E:\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Shared.dll
+E:\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Shared.pdb
+E:\Downloads\MultimediaStorage\Model\bin\Debug\net7.0\Infrastructure.pdb
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.CopyComplete
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.dll
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\refint\Model.dll
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\Model.pdb
+E:\Downloads\MultimediaStorage\Model\obj\Debug\net7.0\ref\Model.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\bin\Debug\net7.0\Model.deps.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\bin\Debug\net7.0\Model.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\bin\Debug\net7.0\Model.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\bin\Debug\net7.0\Shared.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\bin\Debug\net7.0\Shared.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\Model.csproj.CopyComplete
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\Model.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\refint\Model.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\Model.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Model\obj\Debug\net7.0\ref\Model.dll

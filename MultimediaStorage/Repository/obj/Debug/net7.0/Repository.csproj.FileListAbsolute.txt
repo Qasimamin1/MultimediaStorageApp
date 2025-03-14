@@ -1,0 +1,76 @@
+E:\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.deps.json
+E:\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.dll
+E:\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.pdb
+E:\MultimediaStorage\Repository\bin\Debug\net7.0\Infrastructure.dll
+E:\MultimediaStorage\Repository\bin\Debug\net7.0\Model.dll
+E:\MultimediaStorage\Repository\bin\Debug\net7.0\Shared.dll
+E:\MultimediaStorage\Repository\bin\Debug\net7.0\Model.pdb
+E:\MultimediaStorage\Repository\bin\Debug\net7.0\Shared.pdb
+E:\MultimediaStorage\Repository\bin\Debug\net7.0\Infrastructure.pdb
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.dll
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\refint\Repository.dll
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.pdb
+E:\MultimediaStorage\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Model.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Shared.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Model.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Shared.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\ref\Repository.dll
+E:\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.deps.json
+E:\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.dll
+E:\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.pdb
+E:\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Infrastructure.dll
+E:\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Model.dll
+E:\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Shared.dll
+E:\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Model.pdb
+E:\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Shared.pdb
+E:\Downloads\MultimediaStorage\Repository\bin\Debug\net7.0\Infrastructure.pdb
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.dll
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\refint\Repository.dll
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.pdb
+E:\Downloads\MultimediaStorage\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\bin\Debug\net7.0\Model.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\bin\Debug\net7.0\Shared.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\bin\Debug\net7.0\Model.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\bin\Debug\net7.0\Shared.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Repository\obj\Debug\net7.0\ref\Repository.dll

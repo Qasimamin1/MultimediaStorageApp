@@ -1,0 +1,60 @@
+E:\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.deps.json
+E:\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.dll
+E:\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.pdb
+E:\MultimediaStorage\Shared\bin\Debug\net7.0\Infrastructure.dll
+E:\MultimediaStorage\Shared\bin\Debug\net7.0\Infrastructure.pdb
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.AssemblyReference.cache
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.CopyComplete
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.dll
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\refint\Shared.dll
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.pdb
+E:\MultimediaStorage\Shared\obj\Debug\net7.0\ref\Shared.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.AssemblyReference.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.CopyComplete
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.pdb
+C:\Users\Arhamsoft\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\ref\Shared.dll
+E:\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.deps.json
+E:\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.dll
+E:\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.pdb
+E:\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Infrastructure.dll
+E:\Downloads\MultimediaStorage\Shared\bin\Debug\net7.0\Infrastructure.pdb
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.AssemblyReference.cache
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.CopyComplete
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.dll
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\refint\Shared.dll
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.pdb
+E:\Downloads\MultimediaStorage\Shared\obj\Debug\net7.0\ref\Shared.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\bin\Debug\net7.0\Shared.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.AssemblyReference.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.csproj.CopyComplete
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\Shared.pdb
+C:\Users\Qasim\Desktop\Interview\Uppsala University Test\MultimediaStorageApp\MultimediaStorageApp\MultimediaStorage\Shared\obj\Debug\net7.0\ref\Shared.dll
